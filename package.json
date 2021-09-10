@@ -1,0 +1,7 @@
+{
+  "name": "typechain2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yoojat/typechain2.git",
+  "license": "MIT"
+}
